@@ -3,5 +3,5 @@
     end  
     
 def introduction_with_language(name,language)
-  puts "Hey #{name}, you speak #{language}!"
+  puts "Hi, my name is #{name} and I am learning to program in #{Ember.js}.\n"
 end  
